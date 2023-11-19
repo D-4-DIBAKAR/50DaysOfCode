@@ -8,8 +8,8 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 
 | #   | Project Name      | Hosting Links          |
 | :-- | :---------------- | :--------------------- |
-| 01  | Dad jokes         | https://bit.ly/3G2xE2E |
-| 02  | Random Image Feed | https://bit.ly/40JvyhE |
+| 01  | Dad jokes         | [Live Demo](https://loquacious-crisp-5ef146.netlify.app/) |
+| 02  | Random Image Feed | [Live Demo](https://incandescent-phoenix-8b6d6d.netlify.app/) |
 
 ## 🚀 About Me
 
