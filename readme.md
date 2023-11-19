@@ -6,10 +6,11 @@
 
 Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with these direct links:
 
-| #   | Project Name      | Hosting Links          |
-| :-- | :---------------- | :--------------------- |
-| 01  | Dad jokes         | [Live Demo](https://loquacious-crisp-5ef146.netlify.app/) |
-| 02  | Random Image Feed | [Live Demo](https://incandescent-phoenix-8b6d6d.netlify.app/) |
+| #   | Project Name      | Hosting Links                                            |
+| :-- | :---------------- | :------------------------------------------------------- |
+| 01  | Dad jokes         | [Live Demo](https://lnkd.in/dudASpdK)                    |
+| 02  | Random Image Feed | [Live Demo](https://lnkd.in/dqk9yuM6)                    |
+| 03  | Github Profile    | [Live Demo](https://dashing-cannoli-e3d9fa.netlify.app/) |
 
 ## 🚀 About Me
 
