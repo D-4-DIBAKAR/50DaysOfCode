@@ -12,6 +12,7 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 02  | Random Image Feed | [Live Demo](https://lnkd.in/dqk9yuM6) |
 | 03  | Github Profile    | [Live Demo](https://lnkd.in/dCbpY_ZH) |
 | 04  | Todo List         | [Live Demo](https://lnkd.in/dQvc7K_V) |
+| 05  | Expanding Cards   | [Live Demo](https://lnkd.in/dS99KMNR) |
 
 ## 🚀 About Me
 
