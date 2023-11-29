@@ -11,7 +11,7 @@ form.addEventListener("submit", (e) => {
   e.preventDefault();
   addTodo();
 });
-
+//Add TODO
 function addTodo(todo) {
   let todoText = input.value;
   if (todo) {
@@ -38,7 +38,7 @@ function addTodo(todo) {
     updateLS();
   }
 }
-
+//Update List
 function updateLS() {
   todoE1 = document.querySelectorAll("li");
   const todos = [];
