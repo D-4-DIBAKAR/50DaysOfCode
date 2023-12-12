@@ -21,6 +21,7 @@ function createTags(input) {
     .filter((tag) => tag.trim() !== "")
     .map((tag) => tag.trim());
 
+  // Clear existing tags before creating new ones
   tagsEl.innerHTML = "";
 
   tags.forEach((tag) => {
@@ -33,33 +34,40 @@ function createTags(input) {
 
 function randomSelect() {
   const times = 30;
+  let count = 0;
 
   const interval = setInterval(() => {
     const randomTag = pickRandomTag();
 
-    if (randomTag !== undefined) {
+    if (randomTag) {
       highlightTag(randomTag);
 
       setTimeout(() => {
         unHighlightTag(randomTag);
       }, 100);
     }
+
+    count++;
+
+    if (count === times) {
+      clearInterval(interval);
+
+      setTimeout(() => {
+        const finalTag = pickRandomTag();
+        highlightTag(finalTag);
+      }, 100);
+    }
   }, 100);
-
-  setTimeout(() => {
-    clearInterval(interval);
-
-    setTimeout(() => {
-      const randomTag = pickRandomTag();
-
-      highlightTag(randomTag);
-    }, 100);
-  }, times * 100);
 }
 
 function pickRandomTag() {
   const tags = document.querySelectorAll(".tag");
-  return tags[Math.floor(Math.random() * tags.length)];
+
+  if (tags.length > 0) {
+    return tags[Math.floor(Math.random() * tags.length)];
+  }
+
+  return null;
 }
 
 function highlightTag(tag) {
