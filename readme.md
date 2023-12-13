@@ -6,14 +6,15 @@
 
 Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with these direct links:
 
-| #   | Project Name      | Hosting Links                         |
-| :-- | :---------------- | :------------------------------------ |
-| 01  | Dad jokes         | [Live Demo](https://lnkd.in/dudASpdK) |
-| 02  | Random Image Feed | [Live Demo](https://lnkd.in/dqk9yuM6) |
-| 03  | Github Profile    | [Live Demo](https://lnkd.in/dCbpY_ZH) |
-| 04  | Todo List         | [Live Demo](https://lnkd.in/dQvc7K_V) |
-| 05  | Expanding Cards   | [Live Demo](https://lnkd.in/dS99KMNR) |
-| 05  | Progress Step     | [Live Demo](https://lnkd.in/dZS6XZMS) |
+| #   | Project Name         | Hosting Links                                              |
+| :-- | :------------------- | :--------------------------------------------------------- |
+| 01  | Dad jokes            | [Live Demo](https://lnkd.in/dudASpdK)                      |
+| 02  | Random Image Feed    | [Live Demo](https://lnkd.in/dqk9yuM6)                      |
+| 03  | Github Profile       | [Live Demo](https://lnkd.in/dCbpY_ZH)                      |
+| 04  | Todo List            | [Live Demo](https://lnkd.in/dQvc7K_V)                      |
+| 05  | Expanding Cards      | [Live Demo](https://lnkd.in/dS99KMNR)                      |
+| 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS)                      |
+| 07  | Random Choice Picker | [Live Demo](https://silver-salamander-6be878.netlify.app/) |
 
 ## 🚀 About Me
 
