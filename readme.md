@@ -5,7 +5,7 @@
 ## Quick Access to All Project Links! 🚀🔗
 
 Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with these direct links:
-
+ 
 | #   | Project Name         | Hosting Links                                              |
 | :-- | :------------------- | :--------------------------------------------------------- |
 | 01  | Dad jokes            | [Live Demo](https://lnkd.in/dudASpdK)                      |
