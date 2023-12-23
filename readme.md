@@ -5,6 +5,7 @@
 ## Quick Access to All Project Links! 🚀🔗
 
 Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with these direct links:
+<<<<<<< HEAD
 
 | #   | Project Name         | Hosting Links                         |
 | :-- | :------------------- | :------------------------------------ |
@@ -15,6 +16,18 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 05  | Expanding Cards      | [Live Demo](https://lnkd.in/dS99KMNR) |
 | 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS) |
 | 07  | Random Choice Picker | [Live Demo](https://lnkd.in/gibbtizP) |
+=======
+ 
+| #   | Project Name         | Hosting Links                                              |
+| :-- | :------------------- | :--------------------------------------------------------- |
+| 01  | Dad jokes            | [Live Demo](https://lnkd.in/dudASpdK)                      |
+| 02  | Random Image Feed    | [Live Demo](https://lnkd.in/dqk9yuM6)                      |
+| 03  | Github Profile       | [Live Demo](https://lnkd.in/dCbpY_ZH)                      |
+| 04  | Todo List            | [Live Demo](https://lnkd.in/dQvc7K_V)                      |
+| 05  | Expanding Cards      | [Live Demo](https://lnkd.in/dS99KMNR)                      |
+| 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS)                      |
+| 07  | Random Choice Picker | [Live Demo](https://silver-salamander-6be878.netlify.app/) |
+>>>>>>> 15553cec86fa568aecdeecf5d8ba3effafd5ad8a
 
 ## 🚀 About Me
 
