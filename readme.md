@@ -16,7 +16,7 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS)                      |
 | 07  | Random Choice Picker | [Live Demo](https://lnkd.in/gibbtizP)                      |
 | 08  | FAQ Collapse         | [Live Demo](https://relaxed-youtiao-653d7f.netlify.app/)   |
-| 08  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/) |
+| 09  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/) |
 
 ## 🚀 About Me
 
