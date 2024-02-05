@@ -6,17 +6,18 @@
 
 Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with these direct links:
 
-| #   | Project Name         | Hosting Links                                              |
-| :-- | :------------------- | :--------------------------------------------------------- |
-| 01  | Dad jokes            | [Live Demo](https://lnkd.in/dudASpdK)                      |
-| 02  | Random Image Feed    | [Live Demo](https://lnkd.in/dqk9yuM6)                      |
-| 03  | Github Profile       | [Live Demo](https://lnkd.in/dCbpY_ZH)                      |
-| 04  | Todo List            | [Live Demo](https://lnkd.in/dQvc7K_V)                      |
-| 05  | Expanding Cards      | [Live Demo](https://lnkd.in/dS99KMNR)                      |
-| 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS)                      |
-| 07  | Random Choice Picker | [Live Demo](https://lnkd.in/gibbtizP)                      |
-| 08  | FAQ Collapse         | [Live Demo](https://relaxed-youtiao-653d7f.netlify.app/)   |
-| 09  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/) |
+| #   | Project Name         | Hosting Links                                                  |
+| :-- | :------------------- | :------------------------------------------------------------- |
+| 01  | Dad jokes            | [Live Demo](https://lnkd.in/dudASpdK)                          |
+| 02  | Random Image Feed    | [Live Demo](https://lnkd.in/dqk9yuM6)                          |
+| 03  | Github Profile       | [Live Demo](https://lnkd.in/dCbpY_ZH)                          |
+| 04  | Todo List            | [Live Demo](https://lnkd.in/dQvc7K_V)                          |
+| 05  | Expanding Cards      | [Live Demo](https://lnkd.in/dS99KMNR)                          |
+| 06  | Progress Step        | [Live Demo](https://lnkd.in/dZS6XZMS)                          |
+| 07  | Random Choice Picker | [Live Demo](https://lnkd.in/gibbtizP)                          |
+| 08  | FAQ Collapse         | [Live Demo](https://relaxed-youtiao-653d7f.netlify.app/)       |
+| 09  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/)     |
+| 10  | 3D Boxes Background  | [Live Demo](https://incomparable-cascaron-d796fd.netlify.app/) |
 
 ## 🚀 About Me
 
