@@ -18,6 +18,7 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 08  | FAQ Collapse         | [Live Demo](https://relaxed-youtiao-653d7f.netlify.app/)       |
 | 09  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/)     |
 | 10  | 3D Boxes Background  | [Live Demo](https://incomparable-cascaron-d796fd.netlify.app/) |
+| 11  | Animated Navigation  | [Live Demo](https://roaring-cascaron-f33ef2.netlify.app/)      |
 
 ## 🚀 About Me
 
