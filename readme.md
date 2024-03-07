@@ -19,6 +19,7 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 09  | Form Input Wave      | [Live Demo](https://majestic-rolypoly-f6b438.netlify.app/)     |
 | 10  | 3D Boxes Background  | [Live Demo](https://incomparable-cascaron-d796fd.netlify.app/) |
 | 11  | Animated Navigation  | [Live Demo](https://roaring-cascaron-f33ef2.netlify.app/)      |
+| 12  | Theme Clock          | [Live Demo](https://subtle-lokum-2b3e87.netlify.app/)          |
 
 ## 🚀 About Me
 
