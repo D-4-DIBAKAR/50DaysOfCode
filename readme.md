@@ -21,6 +21,7 @@ Explore my 50 Days, 50 Front-End Web Development Projects effortlessly with thes
 | 11  | Animated Navigation  | [Live Demo](https://roaring-cascaron-f33ef2.netlify.app/)      |
 | 12  | Theme Clock          | [Live Demo](https://subtle-lokum-2b3e87.netlify.app/)          |
 | 13  | Hidden Search        | [Live Demo](https://peppy-bubblegum-67c429.netlify.app/)       |
+| 14  | Scroll Animation     | [Live Demo](https://serene-tulumba-53aeb3.netlify.app/)        |
 
 ## 🚀 About Me
 
